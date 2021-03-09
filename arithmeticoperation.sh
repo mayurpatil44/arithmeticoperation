@@ -1,6 +1,5 @@
 #! /bin/bash 
-a=4
-b=4
-c=4
-c=$(( a+b+c ))
-echo $c
+echo -p "Enter a First number" n
+echo -p "Enter a Second number" n1
+echo -p "Eenter a Third Number" n2
+
